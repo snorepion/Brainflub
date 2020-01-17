@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{47508FE5-EB5F-49BE-B519-AD08AEC1A178}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="brainflub2/Program.cs">
+    <Files>
+      <File FileName="../../fl2/reader.cs" Line="1" Column="1" />
+      <File FileName="brainflub2/Program.cs" Line="260" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="brainflub2" expanded="True">
+            <Node name="brainflub2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.brainflub2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
